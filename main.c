@@ -1,7 +1,6 @@
 #include "includes.h"
 #include "functions.h"
 
-
 int main(void) {
 	int c = 0;
 	char* chains[MAXLINE];
